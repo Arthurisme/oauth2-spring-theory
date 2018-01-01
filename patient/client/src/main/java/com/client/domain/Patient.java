@@ -3,7 +3,7 @@ package com.client.domain;
 import com.client.domain.enums.Gender;
 import com.client.domain.enums.Status;
 
-public class patient {
+public class Patient {
 	private Long patientId;
     private String firstName;
     private String lastName;
